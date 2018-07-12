@@ -1,21 +1,21 @@
 # person.rb
 class Person
-def initialize(name, job)
+  def (name, job)
   @name = name
   @job = job
 end
 
-def name 
+  def name 
   @name = "Beyonce"
 end
 
 def name=(new_name)
       @name = new_name
-  end
+end
   
     def job
       @job = "Singer"
-  end 
+end 
 
     def job=(new_job)
       @job = new_job
