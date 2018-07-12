@@ -1,6 +1,6 @@
 # person.rb
 class Person
-  def (name, job)
+  def initalize(name, job)
   @name = name
   @job = job
 end
