@@ -5,4 +5,4 @@ def initialize(name, job)
   @job = job
 end
 
-def 
+def name 
