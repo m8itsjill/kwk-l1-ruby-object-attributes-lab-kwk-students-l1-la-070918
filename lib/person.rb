@@ -14,11 +14,11 @@ def name=(new_name)
   end
   
     def job
-      @job = ""
+      @job = "Singer"
   end 
 
-    def breed=(new_breed)
-      @breed = new_breed
+    def job=(new_job)
+      @job = new_job
     end
   
 end
