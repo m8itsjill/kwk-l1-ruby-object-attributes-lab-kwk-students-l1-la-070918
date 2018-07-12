@@ -1,3 +1,4 @@
 # dog.rb
 class Dog 
-  def initilization 
+  def initilization(name, breed)
+    @name = ""
