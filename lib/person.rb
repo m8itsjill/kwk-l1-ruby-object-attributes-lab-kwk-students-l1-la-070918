@@ -9,3 +9,4 @@ def name
   @name = "Beyonce"
 end
 
+def name 
