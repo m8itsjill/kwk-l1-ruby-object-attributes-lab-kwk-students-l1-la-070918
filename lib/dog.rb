@@ -14,7 +14,7 @@ end
   end
   
     def breed
-      @name = "Beagle"
+      @breed = "Beagle"
   end 
 
     def breed=(new_breed)
