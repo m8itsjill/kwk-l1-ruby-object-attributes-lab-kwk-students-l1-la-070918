@@ -9,5 +9,3 @@ def name
   @name = "Beyonce"
 end
 
-def name=(new_name)
-  @new_name
