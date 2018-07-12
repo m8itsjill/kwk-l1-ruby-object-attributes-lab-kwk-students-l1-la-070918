@@ -6,3 +6,4 @@ def initialize(name, job)
 end
 
 def name 
+  @name = "Beyonce"
